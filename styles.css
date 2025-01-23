@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    padding-top:2em;
+    padding-left: 40em;
+    padding-right: 40em;
+    padding-bottom: 2em;
+}
+
+header
+{
+    background-color: rgb(250, 250, 250);
+    padding: 10px;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}
+
+#name
+{
+    text-align:right;
+    font-size:50px;
+}
+#myInfo
+{
+    text-align:left;
+}
+
+img{
+    width: 30%;
+}
+
+#coursework
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+#skillsandcerts
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+#schooldiv
+{
+    display:flex;
+    justify-content: space-between;
+}
